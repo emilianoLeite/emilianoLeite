@@ -1,0 +1,25 @@
+{
+  "name": "emilianos-blog",
+  "version": "1.0.0",
+  "description": "Dependencies for Emiliano's Blog",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoLeite/emilianoLeite.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Emiliano Leite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilianoLeite/emilianoLeite/issues"
+  },
+  "homepage": "https://github.com/emilianoLeite/emilianoLeite/blog#index",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
