@@ -1,2 +1,2 @@
 node_modules
-blog/_site/*
+blog/_site/**/*
